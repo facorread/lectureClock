@@ -2,7 +2,7 @@
 
 Simple clock and outline for classroom activities
 
-Copyright (C) 2016-2018 Fabio Correa fabio5@osu.edu
+Copyright (C) 2016-2018 Fabio Correa facorread@gmail.com
 
 https://github.com/facorread/lectureClock
 
@@ -15,11 +15,11 @@ the Free Software Foundation, either version 3 of the License, or
 
 lectureClock is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with lectureClock.  If not, see <http://www.gnu.org/licenses/>.
+along with lectureClock. If not, see <http://www.gnu.org/licenses/>.
 
 # User Guide
 

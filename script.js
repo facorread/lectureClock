@@ -1,5 +1,5 @@
 /* This file is part of lectureClock: Simple clock and outline for classroom activities
-Copyright (C) 2016-2018 Fabio Correa fabio5@osu.edu
+Copyright (C) 2016-2018 Fabio Correa facorread@gmail.com
 
 https://github.com/facorread/lectureClock
 https://gitlab.com/facorread/lectureClock
