@@ -33,4 +33,4 @@ The app keeps the class plan in the browser's local storage. Every exact minute 
 
 Q. How do I change the colors, fonts, or sizes? How can I move the clock?
 
-Use Chrome Developer Tools or your favorite text editor to edit the html, css or javascript code.
+A. Use Chrome Developer Tools or your favorite text editor to edit the html, css or javascript code.
