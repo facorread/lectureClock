@@ -2,7 +2,7 @@
 
 Simple clock and outline for classroom activities
 
-Copyright (C) 2016-2018 Fabio Correa facorread@gmail.com
+Copyright (C) 2016-2019 Fabio Correa facorread@gmail.com
 
 https://github.com/facorread/lectureClock
 
